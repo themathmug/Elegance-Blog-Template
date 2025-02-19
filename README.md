@@ -20,7 +20,7 @@ A premium, minimalist blog template built with React, TypeScript, and Tailwind C
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/elegance-blog-template.git
+git clone https://github.com/themathmug/elegance-blog-template.git
 ```
 
 2. Install dependencies
