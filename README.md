@@ -3,6 +3,7 @@
 
 A premium, minimalist blog template built with React, TypeScript, and Tailwind CSS. Features elegant typography, smooth animations, and a responsive design that works beautifully across all devices.
 
+Sample Site:  https://cautious-space-fiesta-97jj7rgrvv7pf799r-8080.app.github.dev/
 
 ## Features
 
