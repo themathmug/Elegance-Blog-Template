@@ -3,7 +3,6 @@
 
 A premium, minimalist blog template built with React, TypeScript, and Tailwind CSS. Features elegant typography, smooth animations, and a responsive design that works beautifully across all devices.
 
-![Elegance Blog Template Preview](public/og-image.png)
 
 ## Features
 
